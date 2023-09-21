@@ -14,7 +14,7 @@ Programa en Matlab que calcula la primera derivada, la segunda y simula el panel
 ### [P3.1 AID_EYE](https://github.com/oscarjuly23/Maths)
 Creación de un prototipo de dron con cámara para monitorizar el desplazamiento de alumnos en una montaña mientras practican snowboard. Los alumnos deben trabajar con datos del perfil de la montaña y realizar diversas operaciones matemáticas en MATLAB para planificar el recorrido del dron.
 ### [P3.2 LS_ACOUSTICS](https://github.com/oscarjuly23/Maths)
-Programa en Matlab que implementa dos figuras de los diagramas de polaridad en polares y cartesianas.
+La práctica se enfoca en la consultoría acústica de un escenario de un evento universitario llamado "Sallefest2020". El objetivo es encontrar la mejor configuración de altavoces para minimizar la molestia causada a los residentes cercanos. Los estudiantes deben trabajar con diagramas de radiación polar y calcular áreas y longitudes de curvas en coordenadas polares.
 ### [P4.1 SPACE_CAM](https://github.com/oscarjuly23/Maths)
 La práctica se centra en el diseño de un cohete espacial que llevará una cámara para tomar una foto desde el espacio durante las Fiestas de La Salle. El objetivo es lanzar el cohete a una altitud entre 10 km y 100 km sobre la superficie de la Tierra y tomar la fotografía. Los estudiantes deben utilizar ecuaciones diferenciales ordinarias (EDO) y el método de Euler para modelar la trayectoria del cohete.
 ### [P4.2 THE_CORONA_METER](https://github.com/oscarjuly23/Maths)
