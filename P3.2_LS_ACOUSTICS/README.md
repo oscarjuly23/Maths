@@ -7,3 +7,7 @@ Antes de abordar la práctica, es importante comprender algunos conceptos de ac�
 ## Parte Práctica
 ### Representación de los Diagramas Polares
 Se deben representar gráficamente los tres diagramas polares dados: Omnidireccional, Supercardioide y Bidireccional en coordenadas polares y cartesianas.
+## Análisis de resultados
+1. Elegir un patrón cardioide o supercardioide es una elección adecuada para minimizar la molestia a los residentes en una situación en la que se necesita dirigir el sonido hacia la pista sin que se propague hacia atrás. Esta respuesta demuestra comprensión de los patrones de micrófonos y cómo afectan a la dirección del sonido.
+2. Tu respuesta indica que el método de los rectángulos (método de Riemann) sería más preciso para calcular el área bajo una curva. Esto es correcto, ya que el método de los rectángulos divide el área en rectángulos pequeños y calcula la suma de sus áreas, lo que puede proporcionar una estimación precisa del área total bajo la curva.
+3. Has calculado el área teórica y comparado los resultados obtenidos con diferentes valores de h en MATLAB. También mencionaste que la resolución con h=0.2*pi/5 se aproxima mejor al área teórica. Esto demuestra un buen entendimiento del concepto de aproximación numérica y cómo afecta la elección del tamaño del paso (h) en la precisión del cálculo.
