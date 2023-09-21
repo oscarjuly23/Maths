@@ -35,3 +35,9 @@ Estos cálculos se realizan utilizando el vector auxiliar de los últimos 5 minu
 
 Luego, se debe calcular la probabilidad de ocurrencia del estado del mar utilizando estos dos valores. Si la probabilidad es menor que 100, se considera un "Suceso 1". Si está entre 100 y 500, se considera un "Suceso 2". Si es mayor que 500, se considera un "Suceso 3".
 
+## Análisis de resultados
+1. Para implementar un algoritmo que calcule la derivada n-ésima (derivadan.m), se puede utilizar una variable 'n' que determine el grado de la derivada deseada. Luego, se puede utilizar un bucle for para llamar a la función derivada.n para los valores deseados de 'n'. Esto permitirá calcular las derivadas de orden superior y sería útil, por ejemplo, para calcular el polinomio de Taylor.
+2. Al analizar la gráfica resultante de la implementación, se observa que podría haber valores en cero en algunos puntos. La presión puede ser cero en ciertos puntos, lo que podría llevar a valores de velocidad y aceleración distintos de cero. Esto se debe a que la presión, la velocidad y la aceleración son conceptos distintos. Por ejemplo, en un punto donde la presión es cero, la velocidad y la aceleración pueden no ser cero si hay un cambio rápido en la presión en ese punto.
+3. Si la función de presión tiene valores puntuales en cero, esto significa que su imagen es igual a cero en esos puntos. Sin embargo, esto no implica necesariamente que la velocidad y la aceleración sean cero en esos mismos puntos. La velocidad y la aceleración se refieren a las derivadas de la función de presión. Se proporciona un ejemplo sencillo para ilustrar esto: la función f(x) = 3x^3 - 9x tiene puntos en los que f(x) es igual a cero, pero su velocidad (f'(x)) y su aceleración (f''(x)) no son cero en esos mismos puntos. Esto demuestra que la presión igual a cero en un punto no garantiza que la velocidad y la aceleración sean cero en ese punto.
+
+
