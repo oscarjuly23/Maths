@@ -4,11 +4,11 @@ Repositorio de proyectos de Cálculo y Matemáticas Ingeniería.
 ## Cálculo:
 
 ### [P1.1 LS_ENCRIPT](https://github.com/oscarjuly23/Maths/tree/main/P1.1_LS_ENCRIPT)
-Programa en Matlab que identiffica y representa varias funciones matemáticas y analiza los resultados.
+La práctica implica el desarrollo de un programa para desencriptar la información transmitida a través de un sistema de cable analógico obsoleto. Se dispone de un osciloscopio para observar la forma de la señal, pero la información está encriptada. La tarea principal es identificar y representar gráficamente las funciones que forman el algoritmo de encriptación utilizando MATLAB u Octave. Estas funciones se proporcionan en el anexo del enunciado.
 ### [P1.2 LS_EARTHQUAKE](https://github.com/oscarjuly23/Maths/tree/main/P1.2_LS_EARTHQUAKE)
-Programa en Matlab que completa diferentes funciones matemáticas y las representa en una matrix 3x3.
+La práctica implica el desarrollo de un software para analizar datos sísmicos recogidos por un sismógrafo en el proyecto LS EARTHQUAKE. Con el objetivo de identificar funciones que representen la actividad sísmica, analizar datos sísmicos de gráficas proporcionadas, responder preguntas teóricas y proporcionar códigos para identificar eventos sísmicos específicos. 
 ### [P2.1 TYLOR_CAM](https://github.com/oscarjuly23/Maths)
-Programa en Matlab que por una parte calcula la primera derivada y por otra calcula la derivada enésima. Finalmente también implementa la función Taylor de la velocidad máxima y la función de error para poder visualizarlas.
+La práctica implica el desarrollo de un programa en MATLAB u Octave para analizar y verificar el movimiento de una cámara llamada "Taylor Cam". Esta cámara utiliza tres motores controlados por un microprocesador PIC18F4321 para desplazarse.
 ### [P2.2 LIFEGUARD_SG](https://github.com/oscarjuly23/Maths)
 Programa en Matlab que calcula la primera derivada, la segunda y simula el panel de control de un sensor de un centro de datos (valores de presión, velocidad y aceleración). También calculamos la media y la diferencia entre valores del vector.
 ### [P3.1 AID_EYE](https://github.com/oscarjuly23/Maths)
