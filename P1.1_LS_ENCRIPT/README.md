@@ -1,18 +1,16 @@
 # P1.1 LS_ENCRIPT
 
-## PROBLEMÀTICA:
 ### Introducció
 Una de les noves start-ups de La Salle Technova Barcelona, LS ENCRIPT, ha rebut un encàrrec per a desenvolupar un programa encarregat de desxifrar la informació transmesa a través d'un sistema cablejat analògic obsolet.
 La start-up, que en aquest moment es troba en la primera ronda de finançament, disposa únicament d'un oscil·loscopi que permet observar la forma del senyal que s'està transmetent a través dels cables. El principal problema que tenen els emprenedors de LS ENCRIPT és que la informació que es transmet pel cable està encriptada.
 En criptografia, l'encriptació és un procediment que utilitza un algoritme de xifrat amb una clau concreta per transformar un missatge, sense atendre la seva estructura lingüística o significat, de tal manera que sigui incomprensible o, almenys, difícil de comprendre per a tota persona que no tingui la clau secreta de l'algorisme.
 Des de la start-up, es posen en contacte amb els alumnes de Càlcul de la universitat per participar en el projecte amb l'objectiu de poder desxifrar el missatge que s'està transmetent, coneixent la clau secreta de l'algorisme, a través d'un cable i desenvolupar un programari que s'encarregui de reconèixer automàticament els diferents patrons que formen aquest senyal.
 
-### Pràctica
-#### Representació de funcions
+### Representació de funcions
 El primer pas per desxifrar la informació és conèixer les diferents funcions que formen l'algoritme d'encriptació. Aquestes funcions es troben a l'Annex Funcions de l'enunciat.
 L'objectiu d'aquest primer apartat és identificar totes les funcions i representar-les gràficament utilitzant l'eina Matlab o Octave. Aquesta representació ha de realitzar-se en forma de matriu 9x9.
 Per fer-ho, podreu recórrer als comandaments subplot (0,0,0) i plot (x0, y0), en un interval definit entre (-1,1)i una resolució de 0.001.
-#### Anàlisi de resultats
+### Anàlisi de resultats
 1. La funció que falta en el Annex Clau és la de l’Exponencial Decreixent. Aquesta mateixa funció la podem programar en Matlab de les següents dos maneres:
 - y = exp (-1*(2*x));
 - y = 1./exp(2*x);
