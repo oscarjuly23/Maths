@@ -1,16 +1,18 @@
-# P1.1 LS_ENCRIPT
+# LS ENCRIPT: Herramienta de Desencriptación de Señales Analógicas
 
-### Introducció
-Una de les noves start-ups de La Salle Technova Barcelona, LS ENCRIPT, ha rebut un encàrrec per a desenvolupar un programa encarregat de desxifrar la informació transmesa a través d'un sistema cablejat analògic obsolet.
-La start-up, que en aquest moment es troba en la primera ronda de finançament, disposa únicament d'un oscil·loscopi que permet observar la forma del senyal que s'està transmetent a través dels cables. El principal problema que tenen els emprenedors de LS ENCRIPT és que la informació que es transmet pel cable està encriptada.
-En criptografia, l'encriptació és un procediment que utilitza un algoritme de xifrat amb una clau concreta per transformar un missatge, sense atendre la seva estructura lingüística o significat, de tal manera que sigui incomprensible o, almenys, difícil de comprendre per a tota persona que no tingui la clau secreta de l'algorisme.
-Des de la start-up, es posen en contacte amb els alumnes de Càlcul de la universitat per participar en el projecte amb l'objectiu de poder desxifrar el missatge que s'està transmetent, coneixent la clau secreta de l'algorisme, a través d'un cable i desenvolupar un programari que s'encarregui de reconèixer automàticament els diferents patrons que formen aquest senyal.
+## Introducción
+LS ENCRIPT es un proyecto desarrollado por una startup en La Salle Technova Barcelona. La startup ha recibido un encargo para desarrollar un programa capaz de desencriptar información transmitida a través de un sistema de cables analógicos obsoletos. Este sistema utiliza un osciloscopio para observar la forma de la señal transmitida, pero la información está encriptada y necesita ser decodificada.
 
-### Representació de funcions
-El primer pas per desxifrar la informació és conèixer les diferents funcions que formen l'algoritme d'encriptació. Aquestes funcions es troben a l'Annex Funcions de l'enunciat.
-L'objectiu d'aquest primer apartat és identificar totes les funcions i representar-les gràficament utilitzant l'eina Matlab o Octave. Aquesta representació ha de realitzar-se en forma de matriu 9x9.
-Per fer-ho, podreu recórrer als comandaments subplot (0,0,0) i plot (x0, y0), en un interval definit entre (-1,1)i una resolució de 0.001.
-### Anàlisi de resultats
+En criptografía, la encriptación es un procedimiento que utiliza un algoritmo de cifrado con una clave específica para transformar un mensaje de manera que sea incomprensible o difícil de comprender para cualquier persona que no tenga la clave secreta del algoritmo. El objetivo de este proyecto es conocer la clave secreta del algoritmo y desarrollar un software capaz de reconocer automáticamente los diferentes patrones que forman esta señal encriptada.
+## Características Destacadas
+### Análisis de Señales encriptadas
+La herramienta LS ENCRIPT se utiliza para analizar señales encriptadas transmitidas a través de cables analógicos obsoletos. Utiliza un osciloscopio para capturar la forma de la señal y luego aplica técnicas de desencriptación para descifrar la información.
+### Representación de Funciones
+El proyecto comienza con la representación gráfica de las funciones que componen el algoritmo de encriptación. Esto permite comprender cómo se está realizando la encriptación y cuáles son las funciones involucradas.
+### Desencriptación de Código
+Una vez identificadas las funciones en el algoritmo de encriptación, el objetivo final es desencriptar el código que se está transmitiendo. Cada función encripta un bit del código, y conocer la clave secreta del algoritmo es crucial para la desencriptación.
+
+## Preguntas teóricas
 1. La funció que falta en el Annex Clau és la de l’Exponencial Decreixent. Aquesta mateixa funció la podem programar en Matlab de les següents dos maneres:
 - y = exp (-1*(2*x));
 - y = 1./exp(2*x);
