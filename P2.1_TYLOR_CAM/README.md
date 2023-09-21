@@ -11,7 +11,7 @@ El sistema de la Tylor Cam utiliza tres motores paso a paso controlados por un P
 El proyecto Tylor Cam está financiado por La Salle Campus Barcelona, lo que implica la necesidad de cumplir con estrictas normativas de seguridad. Una de las regulaciones clave es la velocidad máxima a la que puede moverse la cámara en diferentes áreas, especialmente en las zonas donde hay público. Esta velocidad se describe mediante una función matemática específica que debe cumplirse rigurosamente.
 ### Análisis de Velocidad, Aceleración y Estabilidad
 El programa desarrollado en este proyecto se encarga de analizar la velocidad, la aceleración y la estabilidad de la Tylor Cam durante su funcionamiento. Utiliza cálculos de derivadas y aproximaciones polinómicas para garantizar que la cámara cumpla con los estándares de seguridad y brinde imágenes estables.
-### Preguntas teóricas
+## Preguntas teóricas
 1. En els punts de la funció que la posició és 0, la velocitat i l’acceleració en aquests punts no té perquè ser 0 ja que pot succeir que quan passi la càmera per aquesta posició la velocitat o l’acceleració poden tenir cap valor.
 Per exemple alhora de derivar la funció de velocitat no canviarà el seu valor per a que la posició sigui 0.
 2. L’error absolut de la funció de Taylor va relacionat amb el grau N de Taylor ja que com més augmentem al valor del grau N anirem reduint l’error i tindrem una aproximació més precisa.
