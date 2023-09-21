@@ -1,10 +1,10 @@
 %Jose Maria Valls Salat
-%Oscar Julián Ponte
+%Oscar JuliÃ¡n Ponte
 %Grup Classe: D
 %MATLAB/OCTAVE: MATLAB R2019b
 %Data: 23/12/2019
 
-% Ja que en el enunciat demana que entreguem només els algoritmes main.m, derivada.m, derivada2.m
+% Ja que en el enunciat demana que entreguem nomÃ©s els algoritmes main.m, derivada.m, derivada2.m
 % Cal posar el 'valorsensores1.mat' per al seu correcte funcionament.
 %---------------------------------------------------
 %Variables 
@@ -26,7 +26,7 @@ subplot(4,1,1);
 
 plot(x,sensor);
 
-title("Presió")
+title("PresiÃ³")
 x = 1:2:length(pDerivada)*2; 
 subplot(4,1,2);
 plot(x,pDerivada);
@@ -36,7 +36,7 @@ x = 1:2:length(sDerivada)*2;
 subplot(4,1,3);
 plot(x,sDerivada);
 
-title("Aceleració")
+title("AceleraciÃ³")
 assaig = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20];
 peak_prueba = peak2peak(assaig);
 i = 1;
@@ -106,54 +106,5 @@ subplot(4,1,4);
 plot(x,Succes);
 
 title("Estat del mar")
-
-%---------------------------------------------------
-%Preguntes Teóriques
-
-% 1. A partir de la implementación de derivada.m que has hecho, ¿cómo
-% implementarías un algoritmo para calcular la derivada n-ésima, es decir
-% derivadan.m?
-%
-% Per a implementar un algoritme que calculi la derivada n-éssima el que
-% hauriem de fer és tenir una variable que serà 'n' que dirà fins quin grau
-% volem calcular la derivada i amb un simple for que cridi la primera funció
-% de derivada.n per als valors que volem calcular ja ho tindriem.
-% implementat. Aquest algoritme seria de molta utilitat per se aplicat per
-% a calcular el polinomi de Taylor.
-
-
-% 2. Analiza la gráfica resultante del apartado anterior (la que os haya salido a
-% vosotros, no la del enunciado) indicado la bandera del mar en cada
-% momento. ¿Puede existir valores a 0 en nuestra gráfica? ¿Por qué?
-%
-% Veiem que segons la gràfica que hem aconseguit si podria existir valors
-% en 0 en algun punt.
-
-
-% 3. Si la función presión tiene valores puntuales a cero, en esos puntos, ¿la
-% velocidad y aceleración serán también cero? Justifica con un ejemplo.
-%
-% Si la funció pressió té valors puntuals a 0, això vol dir que la seva
-% imarge és = 0. Quan parlem de la velocitat i l'acceleració ens referim a
-% la primera i segona derivada respectivament.
-% Per tant que la imatge sigui = 0 no vol dir que ni la velocitat ni la
-% acceleració necessariament siguin = 0.
-%
-% Posem un exemple sencill: f(x) = 3x^3-9x
-% f(x) --> x*(3x-9)  // treiem factor comú
-% x=0 & x=1 // Anulen la funció
-%
-% f'(x) = (velocitat) = 9x^2-9
-% x=1 & x=-1 // Anula la funció
-%
-% f"(x) = (acceleració) = 18x
-% x=0 // Anula la funció
-%
-% Comprovem que encara que f(x) tingui valors puntulars a 0 no vol dir que
-% la velocitat i/o la acceleració haguin de ser de 0.
-
-
-% Ja que en el enunciat demana que entreguem només els algoritmes main.m, derivada.m, derivada2.m
-% Cal posar el 'valorsensores1.mat' per al seu correcte funcionament.
 
 %-----------------------SI HEMOS LLEGADO, EL FIN----------------------------
