@@ -1,4 +1,4 @@
-# P2.1 TYLOR_CAM
+# TYLOR_CAM: Programa de Estabilidad para Cámaras Skycam o Spidercam
 
 ## Introducción
 Este proyecto se centra en el desarrollo de un sistema de estabilidad para cámaras Skycam o Spidercam, específicamente para el modelo llamado "Tylor Cam". Los estudiantes de la asignatura de Cálculo, que son parte del programa de Grado en Sistemas Audiovisuales, están llevando a cabo este proyecto como parte de su Trabajo de Final de Grado (TFG). La misión principal de este proyecto es reducir los costos de producción y fabricación de cámaras Skycam, diseñando un modelo más compacto y eficiente que utilice solo tres cables motorizados en lugar de cuatro. Estos cables motorizados son controlados por un microprocesador PIC18F4321 de Microchip®.
