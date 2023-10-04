@@ -1,8 +1,8 @@
 # :triangular_ruler: Maths Reposiroty :triangular_ruler:
-Repositorio de proyectos de Cálculo y Matemáticas Ingeniería.
+Repositorio de proyectos de Cálculo, Álgebra y Matemáticas.
 
 ## Descripción:
-¡Bienvenido a mi repositorio en el que comparto proyectos desarrollados en MATLAB, explorando una variedad de conceptos en cálculo, matemáticas y probabilidad! En este repositorio, encontrarás una colección de proyectos y ejercicios que ilustran el poder y la versatilidad de MATLAB para abordar problemas matemáticos y analíticos.
+¡Bienvenido a mi repositorio en el que comparto proyectos desarrollados en MATLAB, explorando una variedad de conceptos en cálculo, matemáticas, álgebra y probabilidad! En este repositorio, encontrarás una colección de proyectos y ejercicios que ilustran el poder y la versatilidad de MATLAB para abordar problemas matemáticos y analíticos.
 
 ## Cálculo:
 
@@ -22,6 +22,11 @@ La práctica se enfoca en la consultoría acústica de un escenario de un evento
 La práctica se centra en el diseño de un cohete espacial que llevará una cámara para tomar una foto desde el espacio durante las Fiestas de La Salle. El objetivo es lanzar el cohete a una altitud entre 10 km y 100 km sobre la superficie de la Tierra y tomar la fotografía. Los estudiantes deben utilizar ecuaciones diferenciales ordinarias (EDO) y el método de Euler para modelar la trayectoria del cohete.
 ### [P4.2 THE_CORONA_METER](https://github.com/oscarjuly23/Maths/tree/main/P4.2_THE_CORONA_METER)
 Programa en Matlab formado por dos partes. La primera de ellas consiste en implementar una función con las ecuaciones diferenciales del modelo SIR y una segunda parte de muestra y análisis de resultados.
+
+## Álgebra:
+### [T1_Álgebra](https://github.com/oscarjuly23/Maths/tree/main/T1_Exercicis_Matlab.m)
+### [T2_Álgebra](https://github.com/oscarjuly23/Maths/tree/main/T2_Exercicis_Matlab.m)
+### [T3_Álgebra](https://github.com/oscarjuly23/Maths/tree/main/T3_Exercicis_Matlab.m)
 
 ## Mates:
 
