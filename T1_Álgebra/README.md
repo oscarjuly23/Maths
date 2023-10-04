@@ -1,4 +1,4 @@
-# Tema1 Álgebra MATLAB
+# Tema 1 Álgebra MATLAB
 
 1. Crea la següent matriu B:
 A continuació, crea els següents vectors (fixant-te si són vectors
@@ -27,4 +27,4 @@ convertida a escala de grisos.
 5. Multiplica la següent matriu A per una altra matriu per tal d’obtenir
 la matriu identitat.
 
-### [Solució](T1_Álgebra](https://github.com/oscarjuly23/Maths/tree/main/T1_Álgebra/T1_Exercicis_Matlab.m)
+### [Solució](https://github.com/oscarjuly23/Maths/tree/main/T1_Álgebra/T1_Exercicis_Matlab.m)
