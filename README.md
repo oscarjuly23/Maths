@@ -24,9 +24,7 @@ La práctica se centra en el diseño de un cohete espacial que llevará una cám
 Programa en Matlab formado por dos partes. La primera de ellas consiste en implementar una función con las ecuaciones diferenciales del modelo SIR y una segunda parte de muestra y análisis de resultados.
 
 ## Álgebra:
-### [T1_Álgebra](https://github.com/oscarjuly23/Maths/tree/main/T1_Exercicis_Matlab.m)
-### [T2_Álgebra](https://github.com/oscarjuly23/Maths/tree/main/T2_Exercicis_Matlab.m)
-### [T3_Álgebra](https://github.com/oscarjuly23/Maths/tree/main/T3_Exercicis_Matlab.m)
+### [ExercicisÁlgebra](https://github.com/oscarjuly23/Maths/tree/main/ExercicisÁlgebra)
 
 ## Mates:
 
