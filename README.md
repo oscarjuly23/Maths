@@ -1,6 +1,9 @@
 # :triangular_ruler: Maths Reposiroty :triangular_ruler:
 Repositorio de proyectos de Cálculo y Matemáticas Ingeniería.
 
+## Descripción:
+¡Bienvenido a mi repositorio en el que comparto proyectos desarrollados en MATLAB, explorando una variedad de conceptos en cálculo, matemáticas y probabilidad! En este repositorio, encontrarás una colección de proyectos y ejercicios que ilustran el poder y la versatilidad de MATLAB para abordar problemas matemáticos y analíticos.
+
 ## Cálculo:
 
 ### [P1.1 LS_ENCRIPT](https://github.com/oscarjuly23/Maths/tree/main/P1.1_LS_ENCRIPT)
