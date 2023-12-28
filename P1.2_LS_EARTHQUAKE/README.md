@@ -35,3 +35,5 @@ INV
 1. Per diferenciar les funcions trigonomètriques entre sí ens haurem de fixar en el primer valor de la ‘y’.
 2.  Quan disminuïm molt la resolució veiem que la gràfica que ens mostra no és la pròpia de la funció que volem representar.
 3.  Teòricament si que existeixen valors que en una gràfica estiguin en la part negativa d’aquesta. En Matlab no podem representar-los.
+
+![image](https://github.com/oscarjuly23/Maths/assets/39187459/985e3e22-9742-430e-bfc4-0af0d7207b2d)
