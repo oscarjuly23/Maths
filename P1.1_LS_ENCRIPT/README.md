@@ -22,5 +22,7 @@ Hem canviat els límits de les nostres funcions, que passessin a ser -π i +π i
 Si l’augmentem en canvi si que ens mostra la nostre funció, així que podem dir que en un valor a partir de 0.1 la gràfica seria adient amb la fórmula de la funció.
 4. Hem utilitzat el número d’expedient del Oscar, que és el 41071, així que el número que utilitzarem és el 1.
 El missatge descodificat que ens ha quedat ha estat: G I D B H C F E A
-
-![image](https://github.com/oscarjuly23/Maths/assets/39187459/ec41b459-0973-47fe-8eec-d790eda3f67f)
+##
+<p align="center">
+  <img src="https://github.com/oscarjuly23/Maths/assets/39187459/ec41b459-0973-47fe-8eec-d790eda3f67f">
+</p>
