@@ -55,3 +55,7 @@ Arma C: μx=0, σx=1, μy=0, σy=2
 
 ### Observaciones Finales
 Este proyecto ilustra cómo se pueden utilizar conceptos de probabilidad y estadística en el diseño de videojuegos, específicamente en la generación de eventos aleatorios y en la modelización de dispersiones balísticas para mejorar la experiencia del jugador.
+![image](https://github.com/oscarjuly23/Maths/assets/39187459/7d3171ea-c495-436a-b55b-ab616c8e3a06)
+
+![image](https://github.com/oscarjuly23/Maths/assets/39187459/acfc473e-5f16-4637-b11c-216d94627b32)
+
