@@ -18,3 +18,8 @@ Per exemple alhora de derivar la funció de velocitat no canviarà el seu valor 
 3. Per a realitzar MAC-Laurin en el nostre codi, com aquesta fórmula ens diu que el nostre entorn ha de ser de 0, en la nostre funció ja que el punt central sempre és el 0 si que seria possible.
 4. Taylor no és exacte ja que sempre que aproximem ens queda un residu que seria l’error que L’error és igual a zero només en el cas que el que vulguem aproximar és un polinomi.
 5. Hem vist que les funcions que posa de ‘funcpos2’ és la velocitat que ha de prendre la càmera segons la posició en la que es troba perquè veiem que amb la seva derivada els extrems tindrem que la velocitat serà igual a 0.
+
+![image](https://github.com/oscarjuly23/Maths/assets/39187459/ac3ecc7f-5061-4481-912e-832017c4e6e3)
+
+![image](https://github.com/oscarjuly23/Maths/assets/39187459/238cf28d-3cb5-43df-b55b-730b6cd205fd)
+
